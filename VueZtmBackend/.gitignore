@@ -1,0 +1,61 @@
+## .NET / ASP.NET Core
+bin/
+obj/
+out/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# NuGet
+*.nupkg
+*.snupkg
+.nuget/
+**/[Pp]ackages/*
+
+# Visual Studio
+.vs/
+*.sln.iml
+
+# JetBrains Rider
+.idea/
+
+# SQLite databases
+*.db
+*.db-shm
+*.db-wal
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Secrets
+appsettings.*.local.json
+
+# dotnet tools
+.dotnet/
+
+# Publish output
+publish/
+
+# dotnet tool
+.dotnet/
+
+# Publish output
+publish/
