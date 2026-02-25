@@ -2,6 +2,8 @@
 
 A full-stack web application for browsing **Gdańsk public transport (ZTM)** real-time data. Registered users can save their favourite bus/tram stops and see live estimated arrival times, delays, and vehicle positions on an interactive map. Built with **Vue 3 + Vite** on the frontend and **ASP.NET Core 8 Web API** with Clean Architecture on the backend.
 
+<img width="1919" height="1031" alt="image" src="https://github.com/user-attachments/assets/c2a876b5-6f11-430e-8d21-85f5a650349e" />
+
 ## Features
 
 | Feature                    | Description                                                                                              |
